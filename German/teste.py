@@ -1,11 +1,6 @@
-from cProfile import label
-from tkinter import *
+def x(val):
+    val[0] = 45
 
-root = Tk()
+val = [2,4,6]
 
-entrada = Entry(root)
-d = Label(root)
-
-root.mainloop()
-
-print(help(d))
+print(x(val))
