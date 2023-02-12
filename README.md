@@ -1,6 +1,6 @@
 # Projetos
 
-This repository has the purpose of showing the projects that I made during my studies.
+This repository has the purpose of showing the projects that I made during my studies. Projects that I consider large enough have their own repositories.
 
 ## Games
 
