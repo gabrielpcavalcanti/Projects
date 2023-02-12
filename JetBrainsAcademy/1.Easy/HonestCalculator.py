@@ -186,7 +186,7 @@ while True:
             except ZeroDivisionError:
                 print(msg_3)
                 break
-                
+                #
 
         elif eq_lista[2] == 'M':
 
