@@ -51,7 +51,6 @@ def play():
     print(len(vic))
     
     
-    
 num_0_9 = number_generate(1,10)
 num_10_99 = number_generate(10,100)
 num_100_999 = number_generate(100,1000)
@@ -61,4 +60,3 @@ num_end_5 = number_generate(5,95,10)
 modos = [multiply_by_11(num_10_99), square_end_5(num_end_5)]
 
 play()
-
